@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Naty👩‍💻.
 
-I just graduated from a bootcamp in Le Wagon. I love web development and everything about technology 🤖. I'm a curious human being, as such, I'm always reading about ⚖️politics, 🧠neuroscience, 💪human rights, minorities, 👩‍⚕️health, 📒education and 👩women in technology.
-💡 I'm passionate about E-Health and E-Learning, the two are areas where I have interacted my whole life, 50% of my family members are doctors and teachers and I    believe that with the help of technology, each person will be able to live in dignity.
+I just graduated from a bootcamp in Le Wagon. I love web development and everything about technology 🤖. Actually, I am very interested in working remotely, particularly for startups or companies where I can interact with Ruby on Rails or data modeling.
+In Le Wagon we designed, implemented and shipped to production a clone of AirBnb and a Rails prototype : https://castlevania-bootcamp.herokuapp.com/ .For our Demo Day we launch a travel platform where the users can customize their Safari trips to Tanzania: https://abiona.herokuapp.com/.
 
 Currently:
 - 🌱 I am strengthening everything I learned at the bootcamp.
