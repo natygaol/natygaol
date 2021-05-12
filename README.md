@@ -5,7 +5,7 @@ In Le Wagon we designed, implemented and shipped to production a clone of AirBnb
 
 Currently:
 - 🌱 I am strengthening everything I learned at the bootcamp.
-- 💬 Ask me about Ruby on Rails or PostgreSQL| SQL.
+- 💬 Ask me about Ruby on Rails or PostgreSQL.
 - 📫 How to reach me: natalygaol@gmail.com
 - 💼 My Linkedin Profile: https://linkedin.com/in/nataly-garcía-oliva
 - 😄 Pronouns: ella/she/her
