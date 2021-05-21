@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naty👩‍💻 a FullStack Developer.</h1>
+<h1 align="center">Hi 👋, I'm Naty👩‍💻 a FullStack Developer from Perú.</h1>
 <h4 align="justify-content">I love web development and everything about technology 🤖. Actually, I am very interested in working remotely, particularly for startups or companies that provide collaborative and innovative work environments where I can plan my career in the long run. In Le Wagon we designed, implemented and shipped to production a clone of AirBnb and a Rails prototype: <br> https://castlevania-bootcamp.herokuapp.com/ <br>For our Demo Day we launch a travel platform where the users can customize their Safari trips to Tanzania: https://www.tryabiona.com/.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natygaol&label=Profile%20views&color=0e75b6&style=flat" alt="natygaol" /> </p>
