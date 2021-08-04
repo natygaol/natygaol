@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natygaol&label=Profile%20views&color=0e75b6&style=flat" alt="natygaol" /> </p>
 
-- 🔭 I’m currently strengthening everything I learned at the bootcamp and studying a little bit of web scrapping and solving some challenges on HackerRank.
+- 🔭 I’m currently strengthening everything I learned at the bootcamp.
 - 📫 How to reach me: natalygaol@gmail.com
 - 💼 My Linkedin Profile: https://linkedin.com/in/nataly-garcía-oliva
 - 😄 Pronouns: ella/she/her.
