@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natygaol&label=Profile%20views&color=0e75b6&style=flat" alt="natygaol" /> </p>
 
-- 🔭 I’m currently strengthening everything I learned at the bootcamp.
+- 🔭 I’m currently working at MotelNow as a Trainee/Junior Developer.
 - 📫 How to reach me: natalygaol@gmail.com
 - 💼 My Linkedin Profile: https://linkedin.com/in/nataly-garcía-oliva
 - 😄 Pronouns: ella/she/her.
