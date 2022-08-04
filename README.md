@@ -7,7 +7,6 @@
 - 📫 How to reach me: natalygaol@gmail.com
 - 💼 My Linkedin Profile: https://linkedin.com/in/nataly-garcía-oliva
 - 😄 Pronouns: ella/she/her.
-- 📄 I want to learn Python as a second back-end language.
 
 
 <h3 align="left">🤖Languages and Tools:🤖</h3>
