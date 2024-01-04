@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natygaol&label=Profile%20views&color=0e75b6&style=flat" alt="natygaol" /> </p>
 
 - 🔭 I'm currently working as Full-Stack Developer at Prey.
+- Portafolio: https://natygaol.github.io/profile/
 - 📫 How to reach me: natalygaol@gmail.com
 - 💼 My Linkedin Profile: https://linkedin.com/in/nataly-garcía-oliva
 - 😄 Pronouns: ella/she/her.
