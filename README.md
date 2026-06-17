@@ -1,14 +1,3 @@
-Comparando tu README actual con tu perfil actualizado, hay varias cosas que quedan cortas:
-
-Qué agregar/cambiar:
-
-	•	El párrafo principal (<h5>) está desactualizado (habla de Prey, Le Wagon, Kikoya, MotelNow)
-	•	Faltan tecnologías: Python, React, TypeScript, GraphQL, Docker, Redis, Sidekiq, AWS
-	•	No menciona la maestría en Ingeniería de Software
-	•	No menciona experiencia en AI/ML
-
-Aquí el README listo para copiar y pegar:
-
 <h1 align="center">Hi 👋, I'm Naty👩‍💻 a Backend DevOps Developer from Perú.</h1>
 
 <h5 align="justify-content">
